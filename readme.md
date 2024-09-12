@@ -88,7 +88,7 @@ Choosing the right makeup products can be overwhelming with the vast number of o
 ## Live Website and Resources
 
 - **Website Link**: [Greenglow Cosmetics](https://github.com/MohdSohail2461/pranathi.git)
-- **Demo Video**: [YouTube Demo](https://youtube.com/example)
+- **Demo Video**: [video link ](https://drive.google.com/file/d/11Q-mJsoEwPNA-NsrP8FwVMfpvXQ_p_H7/view?usp=drive_link)
 - **Screenshots**:
   **Created Resource Group Screenshot**
   - ![ResourceGroup Screenshot](./ProjectScreenshots/ResourceGroupSS.png)
@@ -101,9 +101,6 @@ Choosing the right makeup products can be overwhelming with the vast number of o
 
    **Created VNet Screenshot** 
   - ![VNetSS Screenshot](./ProjectScreenshots/VNetSS.png)
-
-  **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot](./ProjectScreenshots/SubnetSS.png)
 
    **Deployed VM 1 Screenshot**
   - ![VM1SS Screenshot](./ProjectScreenshots/VM1SS.png)
